@@ -1,0 +1,6 @@
+Проект: demo
+Дата: 06.11.2026 22:07
+Файлы проекта:
+./data/project.txt
+./project-helper.sh
+./reports/result.txt
